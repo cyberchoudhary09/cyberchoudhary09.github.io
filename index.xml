@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Project</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WooCommerce Attack Surface Analysis</title>
+      <link>https://example.org/posts/my-first-research/</link>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/my-first-research/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This post explores the attack surface of WooCommerce plugins.&lt;/p&gt;
+&lt;h2 id=&#34;code-analysis&#34;&gt;Code Analysis&lt;/h2&gt;
+&lt;h2 id=&#34;vulnerability-patterns&#34;&gt;Vulnerability Patterns&lt;/h2&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>
